@@ -33,7 +33,9 @@
         <img src="./assets/imagem.png" alt="Joana.">
         </main>
 <!--comentario-->
-        <footer></footer>
+        <footer class="rodape">
+						<p>Desenvolvido por Alura.</p>
+				</footer>
     </body>
 
 </html>
